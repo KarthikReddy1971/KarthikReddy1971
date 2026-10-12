@@ -1,10 +1,11 @@
- <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Animated coding banner" />
+<div align="center">
 
-  <br>
+  <h1>Hi 👋, I'm Karthik Reddy</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1500&color=FF4757&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Karthik+Reddy;Aspiring+AI%2FML+Engineer;Python+%7C+Data+Science+%7C+Development;Building+Real-World+Projects" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=FF4757&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Aspiring+Data+Analyst;Aspiring+Data+Engineer;Aspiring+Software+Developer" alt="Career role animation" />
+
+</div>
 
   <h3>🤖 Aspiring AI/ML Engineer | 💻 Software Developer</h3>
 
@@ -143,6 +144,7 @@ A simple application for generating random numbers, rolling dice and flipping co
   </a>
 </p>
 
+
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -150,10 +152,6 @@ A simple application for generating random numbers, rolling dice and flipping co
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KarthikReddy1971&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikReddy1971&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-  <br/>
-
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikReddy1971&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
